@@ -8,8 +8,6 @@ npm run test
 
 # example
 `
-var Task = require('./index');
-
 new Task('echo "lets go"')
     .set({
         noInterrupt: false

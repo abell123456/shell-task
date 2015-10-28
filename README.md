@@ -7,7 +7,7 @@ npm run test
 `
 
 # example
-`javascript
+`
 var Task = require('./index');
 
 new Task('echo "lets go"')

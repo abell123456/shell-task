@@ -1,0 +1,17 @@
+{
+  "name": "shell-task",
+  "version": "1.0.0",
+  "description": "This is a shell task program.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "shell",
+    "task"
+  ],
+  "author": "xiangzhong.wxz",
+  "license": "MIT"
+}

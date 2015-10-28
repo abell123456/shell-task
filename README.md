@@ -7,7 +7,7 @@ npm run test
 `
 
 # example
-`
+` javascript
 new Task('echo "lets go"')
     .set({
         noInterrupt: false
